@@ -19,8 +19,9 @@ p {
     color: white;
 }
 
-.container .content {
+.container {
     position: relative;
+    margin: 10px;
 }
 
 .section-title {
