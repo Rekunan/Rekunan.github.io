@@ -19,7 +19,7 @@ p {
     color: white;
 }
 
-.container {
+.container .content {
     position: relative;
 }
 
@@ -28,7 +28,7 @@ p {
     position: absolute;
     right: 0;
     height: auto;
-    width: auto;
+    width: 25%;
 }
 
 #p1 {
