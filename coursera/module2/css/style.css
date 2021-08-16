@@ -2,64 +2,62 @@
 * {
     box-sizing: border-box;
     font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 h1 {
-    margin-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 20px;
     text-align: center;
-}
-
-p {
-    border: 1px solid #000000;
-    background-color: #a52a2a;
-    width: 90%;
-    height: 150px;
-    margin-top: 5px;
-    margin-right: 5px;
-    margin-left: 5px;
-    color: white;
+    font-size: 175%;
 }
 
 .container {
+    background-color: #999999;
     position: relative;
-    margin: 10px;
+    margin: 5px;
+    border: 1px solid #000000;
 }
 
 .content {
-    margin-top: 5px;
-    size: auto;
+    margin-right: auto;
+    margin-left: auto;
+    margin-top: 25px;
+    left: 100;
+    font-size: 100%;
 }
 
 .section-title {
     border: 1px solid #000000;
     position: absolute;
+    top: 0;
     right: 0;
     height: auto;
     width: 100px;
+    text-align: center;
+    font-size: 125%;
 }
 
 #p1 {
     background-color: #d59898;
     color: #000000
 }
+
 #p2 {
     background-color: #c14543;
     color: #ffffff;
 }
+
 #p3 {
     background-color: #e5d198;
     color: #000000
-}
-
-/* Simple Responsive Framework. */
-.row {
-    width: 100%;
 }
 
 /* "The browser should display a desktop version of the site when the width of the browser window is 992px and above." */
 @media (min-width: 992px) {
     .col-lg-1, .col-lg-2, .col-lg-3, .col-lg-4, .col-lg-5, .col-lg-6, .col-lg-7, .col-lg-8, .col-lg-9, .col-lg-10, .col-lg-11, .col-lg-12 {
         float: left;
-        border: 1px solid #000000;
+        /* margin: 5px; */
     }
     .col-lg-1 {
         width: 8.33%;
@@ -71,7 +69,7 @@ p {
         width: 25%;
     }
     .col-lg-4 {
-        width: 33.33%;
+        width: 30%;
     }
     .col-lg-5 {
         width: 41.66%;
@@ -121,7 +119,7 @@ p {
         width: 41.66%;
     }
     .col-md-6 {
-        width: 50%;
+        width: 48%;
     }
     .col-md-7 {
         width: 58.33%;
@@ -183,6 +181,6 @@ p {
         width: 91.66%;
     }
     .col-sm-12 {
-        width: 100%;
+        width: 99%;
     }
 }
