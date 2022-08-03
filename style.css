@@ -35,3 +35,30 @@ a {
     -ms-transform: translate(-50%, -50%);
     transform: translate(-50%, -50%);
 }
+
+.collapsible {
+    background-color: #000;
+    color: #fff;
+    cursor: pointer;
+    border: none;
+    outline: none;
+}
+
+.collapsible:hover {
+    background-color: #111;
+}
+
+.content {
+    display: none;
+    overflow: hidden;
+}
+
+.collapsible:after {
+    content: "\002B";
+    float: left;
+}
+
+.active:after {
+    content: "\2212";
+    float: left;
+}
