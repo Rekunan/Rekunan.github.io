@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/rekunan
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://reku.me
+  * I am rekunan (https://keybase.io/rekunan) on keybase.
+  * I have a public key ASDXdfKiMg_ZZzNX6J3fu7nLE0FmsvkHFPrhIzbgCGqY0Qo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120d775f2a2320fd9673357e89ddfbbb9cb134166b2f90714fae12336e0086a98d10a",
+      "host": "keybase.io",
+      "kid": "0120d775f2a2320fd9673357e89ddfbbb9cb134166b2f90714fae12336e0086a98d10a",
+      "uid": "2e6c0cb8a8196fc76e9cb7ca19cdcd19",
+      "username": "rekunan"
+    },
+    "merkle_root": {
+      "ctime": 1684900418,
+      "hash": "a41fa2ae9fd571f4e58e80afaa67b3c2ec21bcf2326b9b7d84f47988691e4790cd48c7e2310dfeb2621b9c042d599114a268703f054490bd77f160320e745e94",
+      "hash_meta": "acae459586264d9f1da9b10deef61387ab7c1891b3ea1d2d677a3a6de5862216",
+      "seqno": 24488680
+    },
+    "service": {
+      "entropy": "obucdkSLLY9EA1BTiUh/mvXe",
+      "hostname": "reku.me",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.1"
+  },
+  "ctime": 1684900434,
+  "expire_in": 504576000,
+  "prev": "4c0cd1379f5fddf791b6a9d09991bb01ca373bd2b8d5dc583b2bd8d793d0c71f",
+  "seqno": 6,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg13XyojIP2WczV+id37u5yxNBZrL5BxT64SM24AhqmNEKp3BheWxvYWTESpcCBsQgTAzRN59f3feRtqnQmZG7Aco3O9K41dxYOyvY15PQxx/EIPb/P8zDILGwdQkkxyW1gbGRGl4J2jXvmr/eSZUpxcQCAgHCo3NpZ8RAdkBRm+NxYf4fmxgIePQrm9C+l6zRWy5nq974OtkaNNr9VeRQtrJ2hvS1S7SnGZZi3MlVwmiejovnsxiS2G59BahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIIojqVC0Wk5r6UHBMpSrDbIArrPZGYZJ0/v6Dfsddm7Qo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/rekunan
+
+==================================================================
